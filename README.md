@@ -67,7 +67,7 @@ current_focus = {
 
 Got an internship opportunity, a collab idea, or just want to talk tech? Hit me up!
 
-**[linkedin.com/in/Deoxisq](https://linkedin.com/in/Deoxisq)** · **[github.com/Deoxisq](https://github.com/Deoxisq)**
+**[linkedin.com/in/Deoxisq](https://www.linkedin.com/in/andres-lopez-109033337/)** · **[github.com/Deoxisq](https://github.com/Deoxisq)**
 
 ---
 
