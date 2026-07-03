@@ -42,8 +42,7 @@
 
 <div align="center">
 
-![Deoxisq's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Deoxisq)](https://github.com/stats-organization/github-stats-extended)
-
+![Deoxisq's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Deoxisq)]
 ![Top Languages](https://github-readme-extended.vercel.app/api/top-langs/?username=Deoxisq&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
