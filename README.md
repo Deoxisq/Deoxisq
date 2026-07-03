@@ -42,9 +42,9 @@
 
 <div align="center">
 
-![Deoxisq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deoxisq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Deoxisq's GitHub Stats][![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Deoxisq)](https://github.com/stats-organization/github-stats-extended)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deoxisq&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-extended.vercel.app/api/top-langs/?username=Deoxisq&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
