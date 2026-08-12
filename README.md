@@ -1,5 +1,4 @@
 ---
-### 📊 github stats
 
 <div align="center">
 
